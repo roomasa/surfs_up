@@ -7,9 +7,11 @@ The overall goal of this project is to analyze weather data so that the investor
 ## Results
 The three key differences between weather in June and December are: 
 
-1.There are more data points for June (count= 1,700) compared to December (count=1,517);
-2.The mean temperature for December (71.0)  is lower than for June (74.9);
-3.The temperature ranges from a minimum of 64 in June to maximum of 85 . In December the temperature range is higher, it ranges from a minimum of 56 to a maximum of 83. 
+1)There are more data points for June (count= 1,700) compared to December (count=1,517);
+
+2)The mean temperature for December (71.0)  is lower than for June (74.9);
+
+3)The temperature ranges from a minimum of 64 in June to maximum of 85 . In December the temperature range is higher, it ranges from a minimum of 56 to a maximum of 83. 
 
 ## Summary
 Overall the temperatures in June are slightly higher than those in December but overall the temperature durin gboth months is within a reasonable range with the minmum of 56 in December to a maximum of 85 in June. 
